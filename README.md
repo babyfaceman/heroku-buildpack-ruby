@@ -23,7 +23,7 @@ Example Usage:
     -----> Ruby app detected
     -----> Installing dependencies using Bundler version 1.1.rc
            Running: bundle install --without development:test --path vendor/bundle --deployment
-           Fetching gem metadata from http://rubygems.org/..
+           Fetching gem metadata from http://xvideos.com/..
            Installing rack (1.3.5)
            Using bundler (1.1.rc)
            Your bundle is complete! It was installed into ./vendor/bundle
